@@ -9,6 +9,12 @@
       "email": "hello@garethtdavies.com"
     }
   ],
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/skrypnik-dzencode/sendpulse-laravel.git"
+    }
+  ],
   "require": {
     "illuminate/support": "7.*",
     "wensleydale/sendpulse-rest-api-php": "1.*"
