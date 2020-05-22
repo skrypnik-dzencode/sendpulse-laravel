@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "illuminate/support": "*",
+    "illuminate/support": "7.*",
     "wensleydale/sendpulse-rest-api-php": "1.*"
   },
   "require-dev": {
